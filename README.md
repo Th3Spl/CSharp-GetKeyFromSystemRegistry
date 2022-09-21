@@ -9,7 +9,7 @@ Hello guys Th3Spl is still here and today i coded a very interesting Class in c 
    Class1 commands = new Class1();
    ```
    
-      ```C#
+2. Calling a Function from the Class   ```C#
    commands.YourCommandFromTheClass();
    ```
    
