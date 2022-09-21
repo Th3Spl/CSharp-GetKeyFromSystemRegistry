@@ -18,7 +18,6 @@ If you miss some librabry just search it and then download it with the NuGet vis
    ```C#
    commands.YourCommandFromTheClass();
    ``` 
-<br>
 ### Suggestions: 
 
 I can suggest to you to use Visual Studio 2019 and after you have created the project you can just press add an existing file then search for the unpacked file Class.cs
