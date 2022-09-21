@@ -6,8 +6,6 @@ Hello guys Th3Spl is still here and today i coded a very interesting Class in c 
 
 ### Requirements:
 If you miss some librabry just search it and then download it with the NuGet visual studio 2019 system :)
-
-<br>
 <br>
 
 1. Including the Class 
@@ -19,6 +17,8 @@ If you miss some librabry just search it and then download it with the NuGet vis
    ```C#
    commands.YourCommandFromTheClass();
    ```
+   
+<br>
 
 ### Suggestions: 
 
