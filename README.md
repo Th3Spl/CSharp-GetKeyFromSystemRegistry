@@ -16,4 +16,4 @@ Hello guys Th3Spl is still here and today i coded a very interesting Class in c 
    
    
 ### Disclaimer:
-All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under MIT License unless otherwise specified.
+All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [`MIT License`](https://opensource.org/licenses/MIT)  unless otherwise specified.
