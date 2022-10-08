@@ -1,6 +1,6 @@
 /*Disclaimer
  * All is for educational purposes only!!! 
- * don't use this software for attack someone and now even for test it on yourself i did this only for my 
+ * don't use this software for attack someone and not even for test it on yourself i did this only for my 
  * personal study purposes  :)
 */
 
